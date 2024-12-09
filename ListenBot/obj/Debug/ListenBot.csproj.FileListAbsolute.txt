@@ -1,0 +1,10 @@
+C:\projects\c#\ListenBot\ListenBot\bin\Debug\ListenBot.exe.config
+C:\projects\c#\ListenBot\ListenBot\bin\Debug\ListenBot.exe
+C:\projects\c#\ListenBot\ListenBot\bin\Debug\ListenBot.pdb
+C:\projects\c#\ListenBot\ListenBot\obj\Debug\ListenBot.csproj.AssemblyReference.cache
+C:\projects\c#\ListenBot\ListenBot\obj\Debug\ListenBot.MainForm.resources
+C:\projects\c#\ListenBot\ListenBot\obj\Debug\ListenBot.Properties.Resources.resources
+C:\projects\c#\ListenBot\ListenBot\obj\Debug\ListenBot.csproj.GenerateResource.cache
+C:\projects\c#\ListenBot\ListenBot\obj\Debug\ListenBot.csproj.CoreCompileInputs.cache
+C:\projects\c#\ListenBot\ListenBot\obj\Debug\ListenBot.exe
+C:\projects\c#\ListenBot\ListenBot\obj\Debug\ListenBot.pdb
